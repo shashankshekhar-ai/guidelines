@@ -3,6 +3,8 @@
 Status: proposed, 2026-10-20. Covers the repo review, coding style, the Git workflow, prompting for AI coding tools and generic security rules.
 Owner: whole team. Change this file by PR like any other code.
 
+> **New here? Start with the short guides:** [Git Guide](GIT_GUIDE.md) for branches, commits and pull requests, and [Prompting Guide](PROMPTING_GUIDE.md) for AI coding tools. This file is the full reference.
+
 ---
 
 ## 1. Repo review: where we are
